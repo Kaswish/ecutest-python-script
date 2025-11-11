@@ -1,4 +1,4 @@
-# ecutest-python-tool
+# ecutest-python-script
 ECU‑TEST Package calls a Python script  to perform global parameter search &amp; replace
 
 This script uses the ECU-Test internal API to perform a global search for parameters and variables and saves the results to a .txt file. It can also batch-replace variables with new values.
