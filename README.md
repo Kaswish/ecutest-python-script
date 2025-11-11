@@ -5,7 +5,7 @@ This script uses the ECU-Test internal API to perform a global search for parame
 
 
 
-![packages](images/ecu-test-packages.png)
+![packages](ecu-test-packages.png)
 
 
 
